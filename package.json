@@ -1,0 +1,22 @@
+{
+  "name": "ai-resume-builder-mern",
+  "version": "1.0.0",
+  "description": "Full-stack MERN AI Resume Builder powered by Google Gemini AI",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "start": "node server/server.js"
+  },
+  "keywords": [
+    "mern",
+    "resume-builder",
+    "gemini-ai",
+    "ats-friendly",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
